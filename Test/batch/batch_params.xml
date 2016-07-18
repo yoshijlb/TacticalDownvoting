@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><sweep runs="1"><parameter name="initial_reputation" type="constant" constant_type="int" value="1"></parameter><parameter name="initial_stamina" type="constant" constant_type="int" value="1500"></parameter><parameter name="downvoter_population_size" type="constant" constant_type="int" value="500"></parameter></sweep>

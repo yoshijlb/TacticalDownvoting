@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+			<parameter name="randomSeed" displayName="Default Random Seed" type="int" 
+						defaultValue="__NULL__"
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+		
+		 <parameter 
+		 name="downvoter_population_size" 
+		 displayName="downvoter_population_size" 
+		 type="int"
+		 defaultValue="500" 
+		 isReadOnly="true"
+		 />
+		 
+		 <parameter 
+		 name="initial_reputation" 
+		 displayName="initial_reputation" 
+		 type="int"
+		 defaultValue="1" 
+		 isReadOnly="true"
+		 />
+		 
+		 <parameter 
+		 name="initial_stamina" 
+		 displayName="initial_stamina" 
+		 type="int"
+		 defaultValue="1500" 
+		 isReadOnly="true"
+		 />	
+		 
+		 <parameter 
+		 name="topic_counter" 
+		 displayName="topic_counter" 
+		 type="int"
+		 defaultValue="0" 
+		 isReadOnly="false"
+		 />
+		 
+		 <parameter 
+		 name="downvoters_amount_per_topic" 
+		 displayName="downvoters_amount_per_topic" 
+		 type="int"
+		 defaultValue="5" 
+		 isReadOnly="true"
+		 />
+		 
+		 <parameter 
+		 name="upvote_value" 
+		 displayName="initial_stamina" 
+		 type="int"
+		 defaultValue="1" 
+		 isReadOnly="true"
+		 />	
+		 
+		 <parameter 
+		 name="downvote_value" 
+		 displayName="initial_stamina" 
+		 type="int"
+		 defaultValue="1" 
+		 isReadOnly="true"
+		 />	
+		 
+		 <parameter 
+		 name="downvote_cost" 
+		 displayName="initial_stamina" 
+		 type="int"
+		 defaultValue="1" 
+		 isReadOnly="true"
+		 />	
+</parameters>
+
+
