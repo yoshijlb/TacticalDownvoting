@@ -47,29 +47,7 @@
 		 isReadOnly="true"
 		 />
 		 
-		 <parameter 
-		 name="upvote_value" 
-		 displayName="initial_stamina" 
-		 type="int"
-		 defaultValue="1" 
-		 isReadOnly="true"
-		 />	
-		 
-		 <parameter 
-		 name="downvote_value" 
-		 displayName="initial_stamina" 
-		 type="int"
-		 defaultValue="1" 
-		 isReadOnly="true"
-		 />	
-		 
-		 <parameter 
-		 name="downvote_cost" 
-		 displayName="initial_stamina" 
-		 type="int"
-		 defaultValue="1" 
-		 isReadOnly="true"
-		 />	
+		
 </parameters>
 
 
