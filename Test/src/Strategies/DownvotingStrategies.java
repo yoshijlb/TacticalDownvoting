@@ -9,7 +9,7 @@ public class DownvotingStrategies extends DefaultContext<Object>{
 		
 		System.out.println("Downvoting strategies context loaded");	
 		
-		
+		 
 		
 		DownvoterStrategy s1 = new DownvoterStrategy(1,2,2,4,1);			
 		this.add(s1);

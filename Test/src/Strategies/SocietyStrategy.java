@@ -8,7 +8,7 @@ public class SocietyStrategy {
 	private ArrayList<Long> answers;
 	private HashMap<Long, ArrayList<Integer>> votes;
 	private Long topicTTL;
-
+ 
 	public SocietyStrategy(Long[] a, String[] v, Long d) {
 		this.setAnswers(a);
 		this.setVotes(v);

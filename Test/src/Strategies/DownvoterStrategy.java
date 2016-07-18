@@ -7,7 +7,7 @@ public class DownvoterStrategy {
 	private int lastPositionForNewAnswer;
 	private int maxDifferenceForNewAnswer;
 	private int maxDifferenceToTakeAction;
-
+ 
 	public DownvoterStrategy(int rankObjective, int minTotalAnswerCount, int lastPositionForNewAnswer, int maxDifferenceForNewAnswer, int maxDifferenceToTakeAction) {
 		setRankObjective(rankObjective);
 		setMinTotalAnswerCount(minTotalAnswerCount);
