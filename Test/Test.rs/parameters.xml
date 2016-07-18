@@ -21,7 +21,7 @@
 		 type="int"
 		 defaultValue="1" 
 		 isReadOnly="true"
-		 />
+		 /> 
 		 
 		 <parameter 
 		 name="initial_stamina" 
