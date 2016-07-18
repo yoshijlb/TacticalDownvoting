@@ -43,7 +43,7 @@
 		 name="downvoters_amount_per_topic" 
 		 displayName="downvoters_amount_per_topic" 
 		 type="int"
-		 defaultValue="5" 
+		 defaultValue="1" 
 		 isReadOnly="true"
 		 />
 		 
